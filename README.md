@@ -33,6 +33,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Bryan Alexandre](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-alexandre-b10017203/](https://www.linkedin.com/in/bryan-alexandre-b10017203/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:bryandpc07)
+[![Linkedin:](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-alexandre-b10017203/](https://www.linkedin.com/in/bryan-alexandre-b10017203/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Bryandpc07)](mailto:bryandpc07)
 [![GitHub Bryandpc]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Bryandpc)
