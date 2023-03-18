@@ -3,7 +3,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://www.opet.com.br/uniopet">UniOpet</a>.
 - 🌱 &nbsp; Aprendendo mais cada dia.
 
