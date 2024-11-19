@@ -14,6 +14,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
   
 **DevOps**
 
